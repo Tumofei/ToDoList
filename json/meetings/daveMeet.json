@@ -1,0 +1,14 @@
+{
+  "meetings" : [
+    {
+      "description" : "interview1",
+      "date" : "02-07-2016",
+      "status" : true
+    },
+    {
+      "description" : "interview2",
+      "date" : "02-12-2016",
+      "done" : false
+    }
+  ]
+}

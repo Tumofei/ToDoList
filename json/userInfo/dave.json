@@ -1,4 +1,7 @@
 {
-  "name": "application-name",
-  "version": "0.0.1"
+  "firstName": "Dave",
+  "lastName": "Smit",
+  "age": "23",
+  "gender": "M",
+  "todoListUrl": "/toDoList/daveList.json"
 }

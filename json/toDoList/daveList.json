@@ -1,0 +1,15 @@
+{
+  "todos" : [
+    {
+      "description" : "Watch TV",
+      "date" : "01-03-2017",
+      "status" : false
+    },
+    {
+      "description" : "Walk",
+      "date" : "31-11-2016",
+      "status" : false
+    }
+  ],
+  "meetingsFilePath" : "./data/meetings/daveMeet.json"
+}

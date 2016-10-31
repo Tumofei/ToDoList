@@ -1,0 +1,15 @@
+{
+  "todos" : [
+    {
+      "description" : "Run 2 km",
+      "date" : "01-01-2017",
+      "status" : true
+    },
+    {
+      "description" : "Eat",
+      "date" : "31-11-2016",
+      "status" : false
+    }
+  ],
+  "meetingsFilePath" : "./data/meetings/steveMeet.json"
+}

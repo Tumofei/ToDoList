@@ -1,0 +1,14 @@
+{
+  "meetings" : [
+    {
+      "description" : "concert",
+      "date" : "01-10-2016",
+      "status" : true
+    },
+    {
+      "description" : "interview",
+      "date" : "02-12-2016",
+      "done" : false
+    }
+  ]
+}

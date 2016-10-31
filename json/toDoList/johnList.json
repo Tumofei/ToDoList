@@ -1,4 +1,15 @@
 {
-  "name": "application-name",
-  "version": "0.0.1"
+  "todos" : [
+    {
+      "description" : "Drink",
+      "date" : "01-02-2017",
+      "status" : false
+    },
+    {
+      "description" : "Walk",
+      "date" : "31-10-2016",
+      "status" : true
+    }
+  ],
+  "meetingsFilePath" : "./data/meetings/johnMeet.json"
 }
