@@ -11,5 +11,5 @@
       "status" : false
     }
   ],
-  "meetingsFilePath" : "./data/meetings/steveMeet.json"
+  "meetingsListUrl" : "./data/meetings/steveMeet.json"
 }
